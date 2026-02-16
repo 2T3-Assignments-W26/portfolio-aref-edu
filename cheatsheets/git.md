@@ -1,4 +1,4 @@
-# Git Cheat Sheet - Branch NewLook
+# Git Cheat Sheet
 
 ### Configuration
 
