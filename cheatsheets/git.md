@@ -1,5 +1,10 @@
 # Git Cheat Sheet
 
+### Temporary Commits
+
+- `git stash`: Temporarily saves changes to tracked files.
+- `git stash pop`: Restores the most recently stashed changes and removes the stash entry.
+
 ### Configuration
 
 - `git config --global user.name "[name]"` and `git config --global user.email "[email address]"`: Set your name and email for commit transactions.
